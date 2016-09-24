@@ -1,0 +1,23 @@
+{
+  "name": "blessing",
+  "description": "mean stack app",
+  "main": "index.js",
+  "authors": [
+    "prashant"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^3.1.1",
+    "angular-ui-router": "^0.3.1",
+    "MDBootstrap": "*"
+  }
+}
